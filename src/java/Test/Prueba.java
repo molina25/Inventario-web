@@ -15,7 +15,7 @@ public class Prueba {
         evaluar.listarCategoria();//consultar si ha sido eliminada la categoria
         //evaluar.editarCategoria();//metodo editar
     }
-    
+     
     
     public void listarCategoria(){
         CategoriaDAO categoria = new CategoriaDAOImplementar();
