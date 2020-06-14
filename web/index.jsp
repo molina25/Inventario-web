@@ -11,7 +11,7 @@
     <body>
         
         <%@include file = "WEB-INF/Vistas-Parciales/encabezado.jspf" %>
-         <h1>Todo bien, Todo correcto</h1>
+         <h1>Solo Prueba </h1>
     
          
          <%@include file="WEB-INF/Vistas-Parciales/pie.jspf"%>
